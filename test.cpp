@@ -3,7 +3,7 @@
 
 #include <random>
 
-const int THRESHOLD = 8;
+const int THRESHOLD = 10;
 
 int generateNumber()
 {
